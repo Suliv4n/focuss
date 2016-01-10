@@ -40,6 +40,7 @@ http://localhost:3000/focuss_client.js
 Example in php :
 ```php/html
 <?php if(ENVIRONMENT == "development"){ ?>
+    <script type="text/javascript" src="http://localhost:3000/socket.io/socket.io.js"></script>
     <script type="text/javascript" src="http://localhost:3000/focuss_client.js"></script>
 <?php } ?>
 ```
