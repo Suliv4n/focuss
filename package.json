@@ -1,0 +1,10 @@
+{
+    "name": "focuss",
+    "version": "0.1.0",
+    "dependencies": {
+        "fs": "x",
+		"express" : "x",
+		"socket.io" : "x",
+		"fs" : "x"
+    }
+}

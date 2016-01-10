@@ -1,0 +1,9 @@
+{
+	"config" : {
+		"www.example.local" : {
+			"focuss" : {
+				"var/www/example/mystyle.css" : "/mystyle.css"
+			}
+		}
+	}
+}
