@@ -31,6 +31,11 @@ Then put all the css file you want to "focuss" in the "focuss" object :
 Key => path to the css file you want to focuss
 Value => url to the css file focussed
 
+Now just launch the server :
+```bash
+node focuss
+```
+
 
 ### Client :
 
